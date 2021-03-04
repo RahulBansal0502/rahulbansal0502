@@ -9,15 +9,15 @@
 - 📫 How to reach me: rahulbansal.iiitv@gmail.com
 - 😄 Pronouns: He/Him 👨
 - ⚡ Fun fact: I love to listen songs while doing any boring work.
-<br/>
+
 ### 📊 GitHub Stats 
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=rahulbansal0502&hide_border=true&show_icons=true">-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rahulbansal0502&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=rahulbansal0502&hide_border=true&show_icons=true">
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rahulbansal0502&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 ### 📊  Most Used Languages
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbansal0502&hide_border=true&show_icons=true">-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbansal0502&&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbansal0502&hide_border=true&show_icons=true">
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbansal0502&&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### 📊  Visitors
 
