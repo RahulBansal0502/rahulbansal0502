@@ -3,9 +3,9 @@
 
 ### Hi there👋
 
-- ⚡ I am Rahul Bansal, a second-year student at IIITV studying Computer Science and Engineering.
+- ⚡ I am Rahul Bansal, a pre final year student at IIITV studying Computer Science and Engineering.
 - 🌱 I’m currently learning JavaScript and React.
-- 💬 I'd love to talk about Mathematics.
+- 💬 I'd love to talk about Computers💻.
 - 📫 How to reach me: rahulbansal.iiitv@gmail.com
 - 😄 Pronouns: He/Him 👨
 - ⚡ Fun fact: I love to listen songs while doing any boring work.
